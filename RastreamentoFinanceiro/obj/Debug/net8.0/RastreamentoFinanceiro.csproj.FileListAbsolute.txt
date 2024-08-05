@@ -1,0 +1,14 @@
+C:\Users\Estagiario1\source\repos\RastreamentoFinanceiro\RastreamentoFinanceiro\bin\Debug\net8.0\RastreamentoFinanceiro.exe
+C:\Users\Estagiario1\source\repos\RastreamentoFinanceiro\RastreamentoFinanceiro\bin\Debug\net8.0\RastreamentoFinanceiro.deps.json
+C:\Users\Estagiario1\source\repos\RastreamentoFinanceiro\RastreamentoFinanceiro\bin\Debug\net8.0\RastreamentoFinanceiro.runtimeconfig.json
+C:\Users\Estagiario1\source\repos\RastreamentoFinanceiro\RastreamentoFinanceiro\bin\Debug\net8.0\RastreamentoFinanceiro.dll
+C:\Users\Estagiario1\source\repos\RastreamentoFinanceiro\RastreamentoFinanceiro\bin\Debug\net8.0\RastreamentoFinanceiro.pdb
+C:\Users\Estagiario1\source\repos\RastreamentoFinanceiro\RastreamentoFinanceiro\obj\Debug\net8.0\RastreamentoFinanceiro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Estagiario1\source\repos\RastreamentoFinanceiro\RastreamentoFinanceiro\obj\Debug\net8.0\RastreamentoFinanceiro.AssemblyInfoInputs.cache
+C:\Users\Estagiario1\source\repos\RastreamentoFinanceiro\RastreamentoFinanceiro\obj\Debug\net8.0\RastreamentoFinanceiro.AssemblyInfo.cs
+C:\Users\Estagiario1\source\repos\RastreamentoFinanceiro\RastreamentoFinanceiro\obj\Debug\net8.0\RastreamentoFinanceiro.csproj.CoreCompileInputs.cache
+C:\Users\Estagiario1\source\repos\RastreamentoFinanceiro\RastreamentoFinanceiro\obj\Debug\net8.0\RastreamentoFinanceiro.dll
+C:\Users\Estagiario1\source\repos\RastreamentoFinanceiro\RastreamentoFinanceiro\obj\Debug\net8.0\refint\RastreamentoFinanceiro.dll
+C:\Users\Estagiario1\source\repos\RastreamentoFinanceiro\RastreamentoFinanceiro\obj\Debug\net8.0\RastreamentoFinanceiro.pdb
+C:\Users\Estagiario1\source\repos\RastreamentoFinanceiro\RastreamentoFinanceiro\obj\Debug\net8.0\RastreamentoFinanceiro.genruntimeconfig.cache
+C:\Users\Estagiario1\source\repos\RastreamentoFinanceiro\RastreamentoFinanceiro\obj\Debug\net8.0\ref\RastreamentoFinanceiro.dll
